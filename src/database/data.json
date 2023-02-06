@@ -1,0 +1,330 @@
+[
+    {
+        "id": 0,
+        "titulo": "Doutor Estranho no Multiverso da Loucura",
+        "rating": "2.95",
+        "lancamento": "2022",
+        "meta": "60",
+        "duracao": "2h 6min",
+        "sinopse": "Em Doutor Estranho no Multiverso da Loucura, após derrotar Dormammu e enfrentar Thanos nos eventos de Vingadores: Ultimato, o Mago Supremo, Stephen Strange (Benedict Cumberbatch), e seu parceiro Wong (Benedict Wong), continuam suas pesquisas sobre a Joia do Tempo. Mas um velho amigo que virou inimigo coloca um ponto final nos seus planos e faz com que Strange desencadeie um mal indescritível, o obrigando a enfrentar uma nova e poderosa ameaça. O longa se conecta com a série do Disney+ WandaVision e tem relação também com Loki. O longa pertence a fase 4 do MCU onde a realidade do universo pode entrar em colapso por causa do mesmo feitiço que trouxe os vilões do Teioso para o mundo dos Vingadores e o Mago Supremo precisará contar com a ajuda de Wanda (Elizabeth Olsen), que vive isolada desde os eventos de WandaVision.",
+        "capaV": "https://br.web.img3.acsta.net/pictures/22/02/14/18/29/1382589.png",
+        "capaH": "https://sm.ign.com/ign_br/screenshot/default/doutor-estranho-multiverso-loucura_jmqu.jpg",
+        "equipe": {
+            "diretor": [
+                {
+                    "nome": "Sam Raimi",
+                    "foto": "https://m.media-amazon.com/images/M/MV5BODQ0NjI0NzkzMV5BMl5BanBnXkFtZTYwMDc0ODk1._V1_.jpg"
+                }
+            ],
+            "elenco": [
+                {
+                    "nome": "Benedict Cumberbatch",
+                    "personagem": "Doutor Estranho",
+                    "foto": "https://static.wikia.nocookie.net/dublagempedia/images/d/d2/Pagingpiglet.jpg/revision/latest/scale-to-width-down/352?cb=20210123200930&path-prefix=pt-br"
+                },
+                {
+                    "nome": "Elizabeth Olsen",
+                    "personagem": "Wanda Maximoff",
+                    "foto": "https://static.wikia.nocookie.net/universocinematograficomarvel/images/9/9d/Elizabeth_Olsen.jpg/revision/latest/scale-to-width-down/1200?cb=20220828222730&path-prefix=pt"
+                },
+                {
+                    "nome": "Xochitl Gomez",
+                    "personagem": "América Chavez",
+                    "foto": "https://br.web.img3.acsta.net/pictures/20/06/30/21/50/3832582.jpg"
+                },
+                {
+                    "nome": "Rachel McAdams",
+                    "personagem": "Christine Palmer",
+                    "foto": "https://static1.purebreak.com.br/articles/6/20/56/6/@/103839-a-atriz-rachel-mcadams-tambem-faz-700x700-1.jpg"
+                },
+                {
+                    "nome": "John Krasinski",
+                    "personagem": "Senhor Fantástico",
+                    "foto": "https://img.melhoresfilmes.com.br/unsafe/480x640/https%3A%2F%2Fwww.melhoresfilmes.com.br%2Fstorage%2Fimgs%2Fdirectors%2F6429.jpg%3Ft%3D20221024232808"
+                },
+                {
+                    "nome": "Benedict Wong",
+                    "personagem": "Wong",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Benedict_Wong_%2828352087500%29_%28cropped%29.jpg/200px-Benedict_Wong_%2828352087500%29_%28cropped%29.jpg"
+                },
+                {
+                    "nome": "Anson Mount",
+                    "personagem": "Raio Negro",
+                    "foto": "https://www.themoviedb.org/t/p/w500/qU6GGvUqwFMbfK2Bk7Gg7dK1KD6.jpg"
+                },
+                {
+                    "nome": "Chiwetel Ejiofor",
+                    "personagem": "Barão Mordo",
+                    "foto": "https://flxt.tmsimg.com/assets/247378_v9_bb.jpg"
+                },
+                {
+                    "nome": "Patrick Stewart",
+                    "personagem": "Charles Xavier",
+                    "foto": "https://br.web.img2.acsta.net/pictures/19/01/02/20/16/3974061.jpg"
+                },
+                {
+                    "nome": "Hayley Atwell",
+                    "personagem": "Capitã Carter",
+                    "foto": "https://falaanimal.com.br/wp-content/uploads/2019/09/HayleyAtwell_07092019-685x1024.jpg"
+                }
+            ]
+        },
+        "tipos": [
+            "Fantasia",
+            "Ação",
+            "Aventura"
+        ],
+        "imagens":[
+            "https://i0.wp.com/www.arrobanerd.com.br/wp-content/uploads/2022/05/doutor-estranho-no-multiverso-da-loucura-cri%CC%81tica.jpg?fit=1200%2C675&ssl=1",
+            "https://cdn.ome.lt/dZDvPtvHEEcS16tmHP45dIUu8Po=/1200x630/smart/extras/conteudos/doutor-estranho-2-no-multiverso-da-loucura-easter-eggs.jpg",
+            "https://ovicio.com.br/wp-content/uploads/2022/03/20220301-ovicio-doutor-estranho-marvel-multiverso.jpg"
+        ]
+    },
+    {
+        "id": 1,
+        "titulo": "Coringa",
+        "rating": "4.45",
+        "lancamento": "2019",
+        "meta": "59",
+        "duracao": "2h 2min",
+        "sinopse": "Em Coringa, Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante.",
+        "capaV": "https://www.cm-pvarzim.pt/content/uploads/2019/10/filme-joker.jpg",
+        "capaH": "https://capricho.abril.com.br/wp-content/uploads/2019/10/coringa-joker-1.jpg",
+        "equipe": {
+            "diretor": [
+                {
+                    "nome": "Todd Phillips",
+                    "foto": "https://br.web.img2.acsta.net/pictures/16/09/07/16/51/188884.jpg"
+                }
+            ],
+            "elenco": [
+                {
+                    "nome": "Joaquin Phoenix",
+                    "personagem": "Arthur Felck",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Joaquin_Phoenix_in_2018.jpg"
+                },
+                {
+                    "nome": "Robert De Niro",
+                    "personagem": "Murray Franklin",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/5/58/Robert_De_Niro_Cannes_2016.jpg"
+                },
+                {
+                    "nome": "Zazie Beetz",
+                    "personagem": "Sophie Dumond",
+                    "foto": "https://br.web.img3.acsta.net/pictures/19/11/26/23/20/0444545.jpg"
+                },
+                {
+                    "nome": "Frances Conroy",
+                    "personagem": "Penny Fleck",
+                    "foto": "https://br.web.img3.acsta.net/pictures/15/06/29/13/14/250948.jpg"
+                },
+                {
+                    "nome": "Dante Pereira-Olson",
+                    "personagem": "Bruce Wayne",
+                    "foto": "https://br.web.img3.acsta.net/pictures/19/10/07/14/32/1651150.jpg"
+                },
+                {
+                    "nome": "Leigh Gill",
+                    "personagem": "Gary",
+                    "foto": "https://images.mubicdn.net/images/cast_member/536086/cache-744332-1639927014/image-w856.jpg?size=800x"
+                },
+                {
+                    "nome": "Glenn Fleshler",
+                    "personagem": "Randall",
+                    "foto": "https://br.web.img3.acsta.net/pictures/19/09/12/23/55/1441376.jpg"
+                }
+            ]
+        },
+        "tipos": [
+            "Ação",
+            "Aventura",
+            "Drama",
+            "Fantasia",
+            "Crime"
+        ],
+        "imagens":[
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Pinóquio de Guillermo del Toro",
+        "rating": "4.05",
+        "lancamento": "2022",
+        "meta": "79",
+        "duracao": "1h 54min",
+        "sinopse": "A nova versão do diretor Guillermo del Toro é uma releitura sombria e distorcida do famoso conto de fadas de Carlo Collodi sobre o boneco de madeira que sonha em se tornar um menino de verdade. Situado em 1950 na Itália comandada pelo fascismo, Pinóquio ganha a vida quando seu criador talha a forma de um menino em madeira. Mas essa não é qualquer história que todos estão acostumados a ver sobre o menino travesso de madeira. Ao ganhar vida, Pinóquio acaba não sendo um menino tão legal, criando travessuras e pregando peças. Mas ele acaba aprendendo algumas lições ao longo de sua jornada. Entre suas aventuras, o menino de madeira terá de encontrar muitas criaturas e personagens, como o trapaceiro Conde Volpe, um sprite de madeira mágica e até a própria Morte, além de embarcar em um episódio para salvar Geppetto da barriga de um monstro marinho. Mas não espere que esta história tenha um final feliz. ",
+        "capaV": "https://static.wikia.nocookie.net/dublagem/images/2/24/Pin%C3%B3quio_por_Guillermo_Del_Toro.jpg/revision/latest?cb=20221211215009&path-prefix=pt-br",
+        "capaH": "https://veja.abril.com.br/wp-content/uploads/2022/12/PINOCCHIO-01.jpg.jpg?quality=70&strip=info&w=1280&h=720&crop=1",
+        "equipe": {
+            "diretor": [
+                {
+                    "nome": "Guillermo del Toro",
+                    "foto":"https://upload.wikimedia.org/wikipedia/commons/f/f1/Guillermo_del_Toro_in_2017.jpg"
+
+                },
+                {
+                    "nome": "Mark Gustafson",
+                    "foto":"https://resizing.flixster.com/DaXdoEgH2aprnkPtsgRAo7FDUZA=/218x280/v2/https://flxt.tmsimg.com/assets/558395_v9_aa.jpg"
+
+                }
+            ],
+            "elenco": [
+                {
+                    "nome": "Gregory Mann",
+                    "personagem": "Pinóquio",
+                    "foto": "https://images.mubicdn.net/images/cast_member/805800/cache-839232-1671088449/image-w856.jpg?size=800x"
+                },
+                {
+                    "nome": "Ewan McGregor",
+                    "personagem": "Sebastian J. Cricket",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/7/75/Ewan_McGregor_Cannes_2012.jpg"
+                },
+                {
+                    "nome": "Finn Wolfhard",
+                    "personagem": "Pavio",
+                    "foto": "https://br.web.img2.acsta.net/pictures/19/07/08/15/32/3294145.jpg"
+                },
+                {
+                    "nome": "Ron Perlman",
+                    "personagem": "Podesta",
+                    "foto": "data:image/jpeg;base64,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"
+                },
+                {
+                    "nome": "David Bradley",
+                    "personagem": "Gepeto",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/David_Bradley_by_Gage_Skidmore_2.jpg/640px-David_Bradley_by_Gage_Skidmore_2.jpg"
+                },
+                {
+                    "nome": "Tilda Swinton",
+                    "personagem": "Duende de Madeira",
+                    "foto": "https://br.web.img3.acsta.net/c_310_420/pictures/16/10/21/15/53/024829.jpg"
+                },
+                {
+                    "nome": "Cate Blanchett",
+                    "personagem": "Spazzatura",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/3/37/Cate_Blanchett_Cannes_2018_2_%28cropped%29.jpg"
+                },
+                {
+                    "nome": "Christoph Waltz",
+                    "personagem": "Conde Volpe",
+                    "foto": "https://flxt.tmsimg.com/assets/171314_v9_bb.jpg"
+                },
+                {
+                    "nome": "Burn Gorman",
+                    "personagem": "Priest",
+                    "foto": "https://flxt.tmsimg.com/assets/269021_v9_bb.jpg"
+                },
+                {
+                    "nome": "Tim Blake Nelson",
+                    "personagem": "",
+                    "foto": "https://limaomecanico.com.br/wp-content/uploads/2017/01/tim-blake-nelson.jpg"
+                },
+                {
+                    "nome": "John Turturro",
+                    "personagem": "Doutor",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/1/10/John_Turturro_2017.jpg"
+                },
+                {
+                    "nome": "Tom Kenny",
+                    "personagem": "Capitão",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/0/05/Tom_Kenny_%26_Yuri_Lowenthal_%2826231588147%29_%28cropped%29.jpg"
+                }
+            ]
+        },
+        "tipos": [
+            "Animação",
+            "Fantasia",
+            "Drama",
+            "Musical",
+            "Familia"
+        ],
+        "imagens":[
+            "https://muralzinhodeideias.com.br/wp-content/uploads/2022/12/pinoquioprintdestaque-e1658932244201.jpg",
+            "https://cdn.ome.lt/okFCqOWF6v8VwQ_q2SYG7PGwBMQ=/1200x630/smart/extras/conteudos/pinoquio_topo_Aa85Bwk.png",
+            "https://cinepop.com.br/wp-content/uploads/2022/11/pinoquio6.webp"
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Avatar",
+        "rating": "3.75",
+        "lancamento": "2009",
+        "meta": "83",
+        "duracao": "2h 42min",
+        "sinopse": "Jake Sully (Sam Worthington) ficou paraplégico após um combate na Terra. Ele é selecionado para participar do programa Avatar em substituição ao seu irmão gêmeo, falecido. Jake viaja a Pandora, uma lua extraterrestre, onde encontra diversas e estranhas formas de vida. O local é também o lar dos Na'Vi, seres humanóides que, apesar de primitivos, possuem maior capacidade física que os humanos. Os Na'Vi têm três metros de altura, pele azulada e vivem em paz com a natureza de Pandora. Os humanos desejam explorar a lua, de forma a encontrar metais valiosos, o que faz com que os Na'Vi aperfeiçoem suas habilidades guerreiras. Como são incapazes de respirar o ar de Pandora, os humanos criam seres híbridos chamados de Avatar. Eles são controlados por seres humanos, através de uma tecnologia que permite que seus pensamentos sejam aplicados no corpo do Avatar. Desta forma Jake pode novamente voltar à ativa, com seu Avatar percorrendo as florestas de Pandora e liderando soldados. Até conhecer Neytiri (Zoe Saldana), uma feroz Na'Vi que conhece acidentalmente e que serve de tutora para sua ambientação na civilização alienígena.",
+        "capaV": "https://media.fstatic.com/BemTmRIVFm_vjd6K1Ly3gK22p2k=/322x478/smart/filters:format(webp)/media/movies/covers/2011/06/71fc1d0bb2bc1483e66941bb2f17d830.jpg",
+        "capaH": "https://www.showmetech.com.br/wp-content/uploads//2022/12/Avatar-1-1920x1024.jpg",
+        "equipe": {
+            "diretor": [
+                {
+                    "nome": "James Cameron",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/f/fe/James_Cameron_by_Gage_Skidmore.jpg"
+                }
+            ],
+            "elenco": [
+                {
+                    "nome": "Sam Worthington",
+                    "personagem": "Jake Sully",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Avatar_The_Way_of_Water_Tokyo_Press_Conference_Sam_Worthington_%2852563252594%29_%28cropped%29.jpg/220px-Avatar_The_Way_of_Water_Tokyo_Press_Conference_Sam_Worthington_%2852563252594%29_%28cropped%29.jpg"
+                },
+                {
+                    "nome": "Zoe Saldana",
+                    "personagem": "Neytiri",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Avatar_The_Way_of_Water_Tokyo_Press_Conference_Zoe_Salda%C3%B1a_%2852563431865%29_%28cropped2%29.jpg/220px-Avatar_The_Way_of_Water_Tokyo_Press_Conference_Zoe_Salda%C3%B1a_%2852563431865%29_%28cropped2%29.jpg"
+                },
+                {
+                    "nome": "Sigourney Weaver",
+                    "personagem": "Dra.Augustine",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sigourney_Weaver_by_Gage_Skidmore.jpg/1200px-Sigourney_Weaver_by_Gage_Skidmore.jpg"
+                },
+                {
+                    "nome": "Stephen Lang",
+                    "personagem": "Cronel Miles",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stephen_Lang_2014.jpg"
+                },
+                {
+                    "nome": "Michelle Rodriguez",
+                    "personagem": "Trudy Chacon",
+                    "foto": "https://musicimage.xboxlive.com/catalog/video.contributor.5dd00800-0200-11db-89ca-0019b92a3933/image?locale=pt-br&target=circle"
+                },
+                {
+                    "nome": "Giovanni Ribisi",
+                    "personagem": "Parker Selfridge",
+                    "foto": "https://musicimage.xboxlive.com/catalog/video.contributor.20046500-0200-11db-89ca-0019b92a3933/image?locale=en-us&target=circle"
+                },
+                {
+                    "nome": "Joel Moore",
+                    "personagem": "Norm Spellman",
+                    "foto": "https://br.web.img3.acsta.net/pictures/17/08/02/15/03/321560.jpg"
+                },
+                {
+                    "nome": "Laz alonso",
+                    "personagem": "Tsu'tey",
+                    "foto": "https://flxt.tmsimg.com/assets/255119_v9_bb.jpg"
+                },
+                {
+                    "nome": "CCH Pounder",
+                    "personagem": "Mo'at",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/b/b9/C._C._H._Pounder.jpg"
+                },
+                {
+                    "nome": "Wes Studi",
+                    "personagem": "Eytukan",
+                    "foto": "https://static.wikia.nocookie.net/arrow/images/1/1c/Wes_Studi.png/revision/latest?cb=20201203214611"
+                }
+            ]
+        },
+        "tipos": [
+            "Ficção científica",
+            "Aventura"
+        ],
+        "imagens":[
+            "https://s2.glbimg.com/hVMpAeY0rBQoH7HJB8EAcuj_ozI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/m/d/anTjJ9RdAtAzpHlf6b0Q/filme-avatar-1.png",
+            "https://wallpaperaccess.com/full/3274612.jpg",
+            "https://images.wallpapersden.com/image/download/avatar-movie_a21qamaUmZqaraWkpJRmbmdlrWZlbWU.jpg"
+        ]
+    }
+]
