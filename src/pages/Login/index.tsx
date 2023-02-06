@@ -10,8 +10,6 @@ import { setLogin, setState } from '../../store/store';
 import { useNavigation } from '@react-navigation/native';
 import { propsStack } from '../../routes/types';
 
-const { width, height } = Dimensions.get('window');
-
 export function Login() {
 
     const dispatch = useDispatch();
