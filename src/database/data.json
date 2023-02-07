@@ -73,11 +73,6 @@
             "Fantasia",
             "Ação",
             "Aventura"
-        ],
-        "imagens":[
-            "https://i0.wp.com/www.arrobanerd.com.br/wp-content/uploads/2022/05/doutor-estranho-no-multiverso-da-loucura-cri%CC%81tica.jpg?fit=1200%2C675&ssl=1",
-            "https://cdn.ome.lt/dZDvPtvHEEcS16tmHP45dIUu8Po=/1200x630/smart/extras/conteudos/doutor-estranho-2-no-multiverso-da-loucura-easter-eggs.jpg",
-            "https://ovicio.com.br/wp-content/uploads/2022/03/20220301-ovicio-doutor-estranho-marvel-multiverso.jpg"
         ]
     },
     {
@@ -141,11 +136,6 @@
             "Drama",
             "Fantasia",
             "Crime"
-        ],
-        "imagens":[
-            "",
-            "",
-            ""
         ]
     },
     {
@@ -240,11 +230,6 @@
             "Drama",
             "Musical",
             "Familia"
-        ],
-        "imagens":[
-            "https://muralzinhodeideias.com.br/wp-content/uploads/2022/12/pinoquioprintdestaque-e1658932244201.jpg",
-            "https://cdn.ome.lt/okFCqOWF6v8VwQ_q2SYG7PGwBMQ=/1200x630/smart/extras/conteudos/pinoquio_topo_Aa85Bwk.png",
-            "https://cinepop.com.br/wp-content/uploads/2022/11/pinoquio6.webp"
         ]
     },
     {
@@ -320,11 +305,250 @@
         "tipos": [
             "Ficção científica",
             "Aventura"
-        ],
-        "imagens":[
-            "https://s2.glbimg.com/hVMpAeY0rBQoH7HJB8EAcuj_ozI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2022/m/d/anTjJ9RdAtAzpHlf6b0Q/filme-avatar-1.png",
-            "https://wallpaperaccess.com/full/3274612.jpg",
-            "https://images.wallpapersden.com/image/download/avatar-movie_a21qamaUmZqaraWkpJRmbmdlrWZlbWU.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Á Espera de um Milagre",
+        "rating": "4.1",
+        "lancamento": "1999",
+        "meta": "61",
+        "duracao": "3h 09min",
+        "sinopse": "Um carcereiro tem um relacionamento incomum e comovente com um preso que está no corredor na morte: Coffey, um negro enorme, condenado por ter matado brutalmente duas gêmeas de nove anos. Ele tem tamanho e força para matar qualquer um, mas seu comportamento é completamente oposto à sua aparência. Além de ser simples, ingênuo e ter pavor do escuro, ele possui um dom sobrenatural. Com o passar do tempo, o carcereiro aprende que, às vezes, os milagres acontecem nos lugares mais inesperados.",
+        "capaV": "https://br.web.img2.acsta.net/medias/nmedia/18/91/66/66/20156966.jpg",
+        "capaH": "",
+        "equipe": {
+            "diretor": [
+                {
+                    "nome": "Frank Darabont",
+                    "foto": "https://m.media-amazon.com/images/M/MV5BNjk0MTkxNzQwOF5BMl5BanBnXkFtZTcwODM5OTMwNA@@._V1_.jpg"
+                }
+            ],
+            "elenco": [
+                {
+                    "nome": "Michael Clarke Ducan",
+                    "personagem": "John Coffey",
+                    "foto": "https://br.web.img3.acsta.net/c_310_420/pictures/14/09/06/19/41/147683.jpg"
+                },
+                {
+                    "nome": "Tom Hanks",
+                    "personagem": "Paul Edgecomb",
+                    "foto": "https://static.wikia.nocookie.net/dublagempedia/images/b/b1/MV5BMTQ2MjMwNDA3Nl5BMl5BanBnXkFtZTcwMTA2NDY3NQ%40%40._V1_.jpg/revision/latest?cb=20180827224650&path-prefix=pt-br"
+                },
+                {
+                    "nome": "David Morse",
+                    "personagem": "Brutus Howell",
+                    "foto": "https://images.mubicdn.net/images/cast_member/4884/cache-61101-1642934301/image-w856.jpg?size=800x"
+                },
+                {
+                    "nome": "Sam Rockwell",
+                    "personagem": "Wild Bill",
+                    "foto": "https://br.web.img3.acsta.net/pictures/18/10/01/23/49/0754881.jpg"
+                },
+                {
+                    "nome": "Michael Jeter",
+                    "personagem": "Eduard Delacroix",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Michael_Jeter_at_the_44th_Emmy_Awards_cropped.jpg"
+                },
+                {
+                    "nome": "Doug Hutchison",
+                    "personagem": "Percy Wetmore",
+                    "foto": "https://flxt.tmsimg.com/assets/169519_v9_ba.jpg"
+                },
+                {
+                    "nome": "James Cromwell",
+                    "personagem": "Warden Hal",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/c/cb/James_Cromwell_2010.jpg"
+                },
+                {
+                    "nome": "Barry Pepper",
+                    "personagem": "Dean Station",
+                    "foto": "https://br.web.img2.acsta.net/pictures/15/08/05/16/53/500046.jpg"
+                },
+                {
+                    "nome": "Bonnie Hunt",
+                    "personagem": "Jan Edgecomb",
+                    "foto": "https://br.web.img3.acsta.net/pictures/18/11/05/23/42/4148246.jpg"
+                }
+            ]
+        },
+        "tipos": [
+            "Drama",
+            "Fantasia"
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Stranger Things",
+        "rating": "4.2",
+        "lancamento": "2016",
+        "meta": "74",
+        "duracao": "4 Temp",
+        "sinopse": "Um grupo de amigos se envolve em uma série de eventos sobrenaturais na pacata cidade de Hawkins. Eles enfrentam criaturas monstruosas, agências secretas do governo e se aventuram em dimensões paralelas.",
+        "capaV": "https://m.media-amazon.com/images/I/71u4GpIKnNL.jpg",
+        "capaH": "",
+        "equipe": {
+            "diretor": [
+                {
+                    "nome": "Matt Duffer",
+                    "foto": "https://m.media-amazon.com/images/M/MV5BMTQ4OTk1MjI1N15BMl5BanBnXkFtZTgwODc3NTQ1OTE@._V1_.jpg"
+                },
+                {
+                    "nome": "Ross Duffer",
+                    "foto": "https://m.media-amazon.com/images/M/MV5BNTZkZjI1OTMtOWNmZS00NTRlLWIzOGUtMmE1ODExMWEyOGYxXkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg"
+                }
+            ],
+            "elenco": [
+                {
+                    "nome": "Millie Bobby Brown",
+                    "personagem": "Eleven",
+                    "foto": "https://br.web.img2.acsta.net/pictures/19/07/05/23/57/3783349.jpg"
+                },
+                {
+                    "nome": "Finn Wolfhard",
+                    "personagem": "Mike",
+                    "foto": "https://br.web.img2.acsta.net/pictures/19/07/08/15/32/3294145.jpg"
+                },
+                {
+                    "nome": "Noah Schnapp",
+                    "personagem": "Will Byers",
+                    "foto": "https://sobresagas.com.br/wp-content/uploads/2022/07/Apos-ser-exposta-por-Noah-Schnapp-cantora-ofende-ator-com-palavroes-e-revolta-fas-entenda-1200x900.jpg"
+                },
+                {
+                    "nome": "Caleb McLaughlin",
+                    "personagem": "Lucas Sinclair",
+                    "foto": "https://static.wikia.nocookie.net/dublagem/images/f/f0/Caleb_McLaughlin.jpeg/revision/latest?cb=20220601010344&path-prefix=pt-br"
+                },
+                {
+                    "nome": "Sadie Sink",
+                    "personagem": "Max",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/9/94/Sadie_Sink_%2843914734441%29.jpg"
+                },
+                {
+                    "nome": "Gaten Matarazzo",
+                    "personagem": "Dustin Henderson",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Gaten_Matarazzo_by_Gage_Skidmore.jpg"
+                },
+                {
+                    "nome": "Joe Keery",
+                    "personagem": "Steve Harrington",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Joe_Keery_by_Gage_Skidmore.jpg/800px-Joe_Keery_by_Gage_Skidmore.jpg"
+                },
+                {
+                    "nome": "David Harbour",
+                    "personagem": "Jim Hopper",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/David_Harbour_by_Gage_Skidmore.jpg/800px-David_Harbour_by_Gage_Skidmore.jpg"
+                },
+                {
+                    "nome": "Natalia Dyer",
+                    "personagem": "Nancy Wheeler",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Natalia_Dyer_by_Gage_Skidmore.jpg/220px-Natalia_Dyer_by_Gage_Skidmore.jpg"
+                },
+                {
+                    "nome": "Winona Ryder",
+                    "personagem": "Joyce Byers",
+                    "foto": "https://br.web.img2.acsta.net/pictures/19/04/10/23/57/5490545.jpg"
+                },
+                {
+                    "nome": "Charlie Heaton",
+                    "personagem": "Jonathan Byers",
+                    "foto": "https://br.web.img3.acsta.net/pictures/19/07/08/15/52/4847220.jpg"
+                },
+                {
+                    "nome": "Priah Ferguson",
+                    "personagem": "Erica Sinclair",
+                    "foto": "https://br.web.img3.acsta.net/pictures/19/07/08/15/58/0593604.jpg"
+                },
+                {
+                    "nome": "Joseph Quinn",
+                    "personagem": "Eddie Munson",
+                    "foto": "https://portalpopline.com.br/wp-content/uploads/2022/11/joseph-quinn-spin-off-um-lugar-silencioso--533x800.jpg"
+                }
+            ]
+        },
+        "tipos": [
+            "Terror",
+            "Suspense",
+            "Drama",
+            "Sobrenatural",
+            "Mistério",
+            "Obra de Época"
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Harry Potter e as Relíquias da Morte: Parte 2",
+        "rating": "4.1",
+        "lancamento": "2011",
+        "meta": "85",
+        "duracao": "2h 10min",
+        "sinopse": "O confronto entre o bem e o mal espera pelo jovem Harry, que se prepara ao lado de Rony e Hermione para a batalha final contra Lord Voldemort. Harry se transformou em um garoto de aço em uma missão para livrar o mundo do mal. Os amigos devem procurar pelas últimas horcruxes que mantêm o covarde feiticeiro imortal.",
+        "capaV": "https://upload.wikimedia.org/wikipedia/pt/6/64/Harry_Potter_Deathly_Hallows_2010.jpg",
+        "capaH": "",
+        "equipe": {
+            "diretor": [
+                {
+                    "nome": "David Yates",
+                    "foto": "http://s.glbimg.com/jo/g1/f/original/2011/07/13/yates.jpg"
+                }
+            ],
+            "elenco": [
+                {
+                    "nome": "Daniel Radcliffe",
+                    "personagem": "Harry Potter",
+                    "foto": "https://uploads.metropoles.com/wp-content/uploads/2022/03/17195011/Daniel-Rad-819x1024.jpg"
+                },
+                {
+                    "nome": "Emma Watson",
+                    "personagem": "Hermione Granger",
+                    "foto": "https://limaomecanico.com.br/wp-content/uploads/2017/01/emma-watson.jpg"
+                },
+                {
+                    "nome": "Rupert Grint",
+                    "personagem": "Ron Weasley",
+                    "foto": "https://media-manager.noticiasaominuto.com.br/1920/naom_5f55fffaf0e80.jpg"
+                },
+                {
+                    "nome": "Ralph Fiennes",
+                    "personagem": "Lord Voldemort",
+                    "foto": "https://images.mubicdn.net/images/cast_member/15458/cache-3877-1609422838/image-w856.jpg"
+                },
+                {
+                    "nome": "Tom Felton",
+                    "personagem": "Draco Malfoy",
+                    "foto": "https://musicimage.xboxlive.com/catalog/video.contributor.5c270b00-0200-11db-89ca-0019b92a3933/image?locale=pt-br&target=circle"
+                },
+                {
+                    "nome": "Alan Rickman",
+                    "personagem": "Severus Snape",
+                    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alan_Rickman_cropped_and_retouched.jpg/640px-Alan_Rickman_cropped_and_retouched.jpg"
+                },
+                {
+                    "nome": "Helena Bonham Carter",
+                    "personagem": "Bellatrix Lestrange",
+                    "foto": "https://www.telegraph.co.uk/content/dam/tv/2019/11/25/TELEMMGLPICT000216569412_trans_NvBQzQNjv4BqAnk_VxBkjgr0uSQsJFNRv5hnfPgDFGu738rLSsQrnIQ.jpeg"
+                },
+                {
+                    "nome": "Michael Gambon",
+                    "personagem": "Albus  Dubledore",
+                    "foto": "https://musicimage.xboxlive.com/catalog/video.contributor.09f56400-0200-11db-89ca-0019b92a3933/image?locale=pt-br&target=circle"
+                },
+                {
+                    "nome": "Robbie Coltrane",
+                    "personagem": "Rúbeo Hagrid",
+                    "foto": "https://conteudo.imguol.com.br/c/entretenimento/b7/2022/10/14/robbie-coltrane-1665766657085_v2_1x1.jpg"
+                },
+                {
+                    "nome": "Maggie Smith",
+                    "personagem": "Minerva McGonory",
+                    "foto": "https://cdn.britannica.com/83/212283-050-5826A047/Maggie-Smith-British-actress-2015.jpg"
+                }
+            ]
+        },
+        "tipos": [
+            "Aventura",
+            "Mistério",
+            "Fantasia"
         ]
     }
 ]

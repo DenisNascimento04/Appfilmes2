@@ -28,6 +28,5 @@ export type PropsMovies = {
             nome: string, personagem: string, foto: string
         }[]
     },
-    tipos: string[],
-    imagens: string[]
+    tipos: string[]
 }

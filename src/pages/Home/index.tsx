@@ -4,7 +4,7 @@ import { useNavigation } from '@react-navigation/native';
 import { AntDesign } from '@expo/vector-icons';
 
 import { Header } from '../../components/Header';
-import { Container, Content, Title } from './styles';
+import { Container, Content, TextoMeta, Title } from './styles';
 
 import data from '../../database/data.json';
 import { Card } from '../../components/Card';
@@ -13,6 +13,7 @@ import themes from '../../themes';
 import { Category } from '../../components/Category';
 import { propsStack } from '../../routes/types';
 import { CardG } from '../../components/CardG';
+import { TopMeta, TopRating } from '../../Comands';
 
 const { width, height } = Dimensions.get('window')
 
@@ -44,10 +45,10 @@ export default function Home() {
             <Header title='APP MOVIES'/>
             <Content>
                 <View style={{ marginBottom: 24, marginTop: 10 }}>
-                    <Title>Filmes</Title>
+                    <Title>Top 5 Meta</Title>
                     <Animated.FlatList 
-                        data={data}
-                        contentContainerStyle={{ paddingHorizontal: 24, alignItems: 'center', justifyContent: 'center' }}
+                        data={TopMeta()}
+                        contentContainerStyle={{ paddingLeft: 24, paddingRight: 128, alignItems: 'center', justifyContent: 'center' }}
                         showsHorizontalScrollIndicator={false}
                         keyExtractor={(_,i) => i.toString()}
                         snapToInterval={item_size}
@@ -66,10 +67,6 @@ export default function Home() {
                                 index * (item_size),
                                 (index + 1) * (item_size),
                             ];
-                            const translateY = scrollX.interpolate({
-                                inputRange,
-                                outputRange: [-20, 0, -20]
-                            })
                             const scale = scrollX.interpolate({
                                 inputRange,
                                 outputRange: [.9, 1, .9]
@@ -82,6 +79,18 @@ export default function Home() {
                             return(
                                 <Pressable onPress={() => navigation.navigate("PageMovies", {data: item})}>
                                     <Animated.View key={index} style={{ transform: [{ scale }], opacity }}>
+                                        <View style={{ alignItems: 'center', justifyContent: 'center', zIndex: 2, position: 'absolute', top: 255, left: item_size-45 }}>
+                                            <View style={{ borderRadius: 4, paddingHorizontal: 6, paddingVertical: 4,
+                                            backgroundColor: 
+                                            parseInt(item.meta) >= 61 ? "#2ECC71" :
+                                            parseInt(item.meta) >= 40 && parseInt(item.meta) <= 60 ? "#fc3" :
+                                            parseInt(item.meta) >= 0 && parseInt(item.meta) <= 39 ? "#f00" : '#f2f2f2',
+                                            }}>
+                                            <TextoMeta style={{ color: themes.colors.FUNDO }}>
+                                                {item.meta}
+                                            </TextoMeta>
+                                            </View>
+                                        </View>
                                         <Animated.Image 
                                             key={index}
                                             source={{ uri: item.capaV }}
@@ -121,7 +130,7 @@ export default function Home() {
                     <Title>Tendências</Title>
                     <View>
                         <FlatList 
-                            data={data}
+                            data={TopRating()}
                             keyExtractor={(_,i) => i.toString()}
                             horizontal
                             scrollEventThrottle={16}

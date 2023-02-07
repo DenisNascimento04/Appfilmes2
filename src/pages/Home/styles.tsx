@@ -18,3 +18,8 @@ export const Title = styled.Text`
     margin-bottom: 4px;
 `;
 
+export const TextoMeta = styled.Text`
+    color: ${({ theme }) => theme.colors.CONTRASTE};
+    font-family: ${({ theme }) => theme.fonts._500};
+    font-size: 20px;
+`;
