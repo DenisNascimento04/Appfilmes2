@@ -1,6 +1,6 @@
 # App de filmes - Em desevolvimento
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
-[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 # Sobre o projeto
 
@@ -9,9 +9,10 @@ O objetivo é criar um ambinte fluido e funcional permitindo que o usuário fiqu
 
 # Layouts
 
-![Mobile]()
-![Mobile]()
-![Mobile]()
+![Mobile](https://github.com/DenisNascimento04/Fotos/blob/main/Screenshot_20230207-211207%20(1).jpg)
+![Mobile](https://github.com/DenisNascimento04/Fotos/blob/main/Screenshot_20230207-211143.jpg)
+![Mobile](https://github.com/DenisNascimento04/Fotos/blob/main/Screenshot_20230207-211224.jpg)
+![Mobile](https://github.com/DenisNascimento04/Fotos/blob/main/Screenshot_20230207-211233.jpg)
 
 # Tecnologias
 ## Front-end
