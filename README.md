@@ -21,7 +21,7 @@ O objetivo é criar um ambinte fluido e funcional permitindo que o usuário fiqu
 ## Autenticação e Banco de dados
 - Firebase
 
-#Autor
+# Autor
 
 Denis Nascimento dos Santos
 
